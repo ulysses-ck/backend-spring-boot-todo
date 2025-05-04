@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# env files
+.env
+
+# prod configuration file
+application-prod.yml
